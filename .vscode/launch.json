@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://${this.name}",
+            "request": "launch",
+            "url": "http://${this.name}"
+        }
+    ]
+}
